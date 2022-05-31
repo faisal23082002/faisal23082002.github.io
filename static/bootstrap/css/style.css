@@ -1,0 +1,38 @@
+.jumbotron img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #ffe8e8;
+    padding-top: 10rem;
+}
+
+.about {
+    padding-top: 5rem;
+}
+
+.about p {
+    text-align: justify;
+}
+
+.gallery {
+    background-color: #ffe8e8;
+    padding-top: 5rem;
+}
+.contact {
+    padding-top: 5rem;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    background-color: #dc3545;
+    padding-bottom: 1rem;
+}
+
